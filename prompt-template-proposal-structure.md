@@ -5,7 +5,7 @@
 **Project:** EPAM
 **Model:** Chat GPT 5.2
 **DIAL location:** my files/proposal maker
-**Committed location:** 
+**Committed location:** https://github.com/punitepam/proposal-maker/blob/main/prompt-template-proposal-structure.md
 
 ---
 
